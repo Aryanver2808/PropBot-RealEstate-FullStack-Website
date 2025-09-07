@@ -1,4 +1,4 @@
-import FeaturedProperties from "../buy/featuredProperties";
+import FeaturedProperties from "../buy/FeaturedProperties";
 import FeaturedPropertys from "../buy/FeaturedPropertys";
 
 
