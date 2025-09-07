@@ -26,18 +26,17 @@ const firebaseConfig = {
 };
 
 ## Screenshots
+## Screenshots
+
 **Home Page**  
 ![Home Page](screenshots/home.png)
-[Home Page](screenshots/home2.png)
-[Home Page](screenshots/home3.png)
-[Home Page](screenshots/home4.png)
-[Home Page](screenshots/home5.png)
-[Home Page](screenshots/home6.png)
-[Home Page](screenshots/home7.png)
-[Home Page](screenshots/home8.png)
+![Home Page](screenshots/home2.png)
+![Home Page](screenshots/home3.png)
+![Home Page](screenshots/home4.png)
+
 **Listings Page**  
 ![Listings Page](screenshots/listings.png)
-[Listings Page](screenshots/listings2.png)
+![Listings Page](screenshots/listings2.png)
 
 **Login Page**  
 ![Login Page](screenshots/login.png)
