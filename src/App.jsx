@@ -4,7 +4,7 @@ import Footer from "./components/Footer";
 import Home from "./pages/Home";
 import Listings from "./pages/Listings";
 import Login from "./pages/Login";
-import SignUp from "./pages/SignUp";
+import SignUp from "./pages/Signup";
 
 function AppLayout() {
   const location = useLocation();
