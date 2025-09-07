@@ -26,21 +26,17 @@ const firebaseConfig = {
 };
 
 ## Screenshots
-**Home Page**  
-![Home Page](screenshots/home.png)
-[Home Page](screenshots/home2.png)
-[Home Page](screenshots/home3.png)
-[Home Page](screenshots/home4.png)
-[Home Page](screenshots/home5.png)
-[Home Page](screenshots/home6.png)
-[Home Page](screenshots/home7.png)
-[Home Page](screenshots/home8.png)
-**Listings Page**  
-![Listings Page](screenshots/listings.png)
-[Listings Page](screenshots/listings2.png)
-
-**Login Page**  
-![Login Page](screenshots/login.png)
-
-**Signup Page**  
-![Signup Page](screenshots/signup.png)
+<p align="center">
+  <img src="screenshots/home.png" alt="Home Page" width="200" />
+  <img src="screenshots/home2.png" alt="Home Page" width="200" />
+  <img src="screenshots/home3.png" alt="Home Page" width="200" />
+  <img src="screenshots/home4.png" alt="Home Page" width="200" />
+  <img src="screenshots/home5.png" alt="Home Page" width="200" />
+  <img src="screenshots/home6.png" alt="Home Page" width="200" />
+  <img src="screenshots/home7.png" alt="Home Page" width="200" />
+  <img src="screenshots/home8.png" alt="Home Page" width="200" />
+  <img src="screenshots/listings.png" alt="Listings Page" width="200" />
+  <img src="screenshots/listings2.png" alt="Listings Page" width="200" />
+  <img src="screenshots/login.png" alt="Login Page" width="200" />
+  <img src="screenshots/signup.png" alt="Signup Page" width="200" />
+</p>
